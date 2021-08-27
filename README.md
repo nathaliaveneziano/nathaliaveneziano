@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Apaixonada pela área de tecnologia, curiosa para saber até onde ela pode nos levar e como podemos utilizá-la para melhorar o mundo.
+
 <!--
 **nathaliaveneziano/nathaliaveneziano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
