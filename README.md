@@ -34,3 +34,16 @@ Back-end:
 Database:
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=MySQL&logoColor=white&style=flat)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=MongoDB&logoColor=white&style=flat)
+
+
+<!-- GitHub Stats Card -->
+
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=nathaliaveneziano&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=nathaliaveneziano&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+
+<!-- Top Languages Card -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathaliaveneziano&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathaliaveneziano&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
