@@ -56,5 +56,5 @@ Database:
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=nathaliaveneziano&show_icons=true&theme=cobalt" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathaliaveneziano&layout=compact&theme=cobalt&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathaliaveneziano&layout=compact&theme=cobalt&langs_count=8&hide=ruby,objective-c,starlark,java" />
 </div>
